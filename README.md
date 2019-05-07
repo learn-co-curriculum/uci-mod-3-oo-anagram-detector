@@ -1,8 +1,8 @@
 # Anagram Detector
 
-## Objectives
+## Learning Goals
 
-1.  Build a class with an initialize method and use an `attr_accessor`
+- Build a class with an initialize method and use an `attr_accessor`
 
 ## Description
 
@@ -74,6 +74,3 @@ comparison:
 
 [anagrams]: http://www.dictionary.com/browse/anagram
 [array_shortcut]: http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/anagram-detector' title='Anagram Detector'>Anagram Detector</a> on Learn.co and start learning to code for free.</p>
-
